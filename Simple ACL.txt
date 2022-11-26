@@ -1,0 +1,8 @@
+Simple ACL Connection between students and Staff in an insitution 
+Student Network id is 10.0.0.0
+Studnet Subnet id is 255.255.255.0
+Staff's Network id is 192.168.0.0
+Staff's Subnet is 255.255.255.0
+Inter-link connection id: 20.0.0.0
+This is an standard ACL Connetion 
+And the ACL is impletemented is Router 1
